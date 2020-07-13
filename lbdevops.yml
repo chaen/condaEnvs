@@ -1,0 +1,67 @@
+name: lbdevops
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=0_gnu
+  - binutils_impl_linux-64=2.34=h53a641e_2
+  - ca-certificates=2020.4.5.1=hecc5488_0
+  - certifi=2020.4.5.1=py38h32f6830_0
+  - gcc_impl_linux-64=7.5.0=hd420e75_6
+  - gfortran_impl_linux-64=7.5.0=hdf63c60_6
+  - gxx_impl_linux-64=7.5.0=hdf63c60_6
+  - ld_impl_linux-64=2.34=h53a641e_2
+  - libffi=3.2.1=he1b5a44_1007
+  - libgcc-ng=9.2.0=h24d8f2e_2
+  - libgfortran-ng=7.5.0=hdf63c60_6
+  - libgomp=9.2.0=h24d8f2e_2
+  - libstdcxx-ng=9.2.0=hdf63c60_2
+  - ncurses=6.1=hf484d3e_1002
+  - openssl=1.1.1g=h516909a_0
+  - pip=20.1.1=pyh9f0ad1d_0
+  - python=3.8.2=he5300dc_7_cpython
+  - python_abi=3.8=1_cp38
+  - readline=8.0=hf8c457e_0
+  - setuptools=46.4.0=py38h32f6830_0
+  - sqlite=3.30.1=hcee41ef_0
+  - sysroot_linux-64=2.12=h3a0023d_3
+  - tk=8.6.10=hed695b0_0
+  - wheel=0.34.2=py_1
+  - xz=5.2.5=h516909a_0
+  - zlib=1.2.11=h516909a_1006
+  - pip:
+    - alabaster==0.7.12
+    - argh==0.26.2
+    - babel==2.8.0
+    - chardet==3.0.4
+    - docutils==0.16
+    - idna==2.9
+    - imagesize==1.2.0
+    - jinja2==2.11.2
+    - livereload==2.6.1
+    - markupsafe==1.1.1
+    - packaging==20.4
+    - pathtools==0.1.2
+    - port-for==0.3.1
+    - pygments==2.6.1
+    - pyparsing==2.4.7
+    - pytz==2020.1
+    - pyyaml==5.3.1
+    - requests==2.23.0
+    - six==1.15.0
+    - snowballstemmer==2.0.0
+    - sphinx==3.0.3
+    - sphinx-autobuild==0.7.1
+    - sphinx-rtd-theme==0.4.3
+    - sphinxcontrib-applehelp==1.0.2
+    - sphinxcontrib-devhelp==1.0.2
+    - sphinxcontrib-htmlhelp==1.0.3
+    - sphinxcontrib-jsmath==1.0.1
+    - sphinxcontrib-qthelp==1.0.3
+    - sphinxcontrib-serializinghtml==1.1.4
+    - tornado==6.0.4
+    - urllib3==1.25.9
+    - watchdog==0.10.2
+prefix: /home/chaen/miniconda2/envs/lbdevops
+

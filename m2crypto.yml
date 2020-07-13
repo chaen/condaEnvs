@@ -1,0 +1,42 @@
+name: m2crypto
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=0_gnu
+  - binutils-meta=1.0.4=0
+  - binutils_impl_linux-64=2.33.1=h53a641e_8
+  - binutils_linux-64=2.33.1=h9595d00_16
+  - c-compiler=1.0.4=h516909a_0
+  - ca-certificates=2019.11.28=hecc5488_0
+  - certifi=2019.11.28=py27_0
+  - compilers=1.0.4=0
+  - cxx-compiler=1.0.4=hc9558a2_0
+  - fortran-compiler=1.0.4=he991be0_0
+  - gcc_impl_linux-64=7.3.0=hd420e75_5
+  - gcc_linux-64=7.3.0=h553295d_16
+  - gfortran_impl_linux-64=7.3.0=hdf63c60_5
+  - gfortran_linux-64=7.3.0=h553295d_16
+  - gxx_impl_linux-64=7.3.0=hdf63c60_5
+  - gxx_linux-64=7.3.0=h553295d_16
+  - ld_impl_linux-64=2.33.1=h53a641e_8
+  - libffi=3.2.1=he1b5a44_1006
+  - libgcc-ng=9.2.0=h24d8f2e_2
+  - libgfortran-ng=7.3.0=hdf63c60_5
+  - libgomp=9.2.0=h24d8f2e_2
+  - libstdcxx-ng=9.2.0=hdf63c60_2
+  - ncurses=6.1=hf484d3e_1002
+  - openssl=1.0.2u=h516909a_0
+  - pcre=8.44=he1b5a44_0
+  - pip=20.0.2=py_2
+  - python=2.7.15=h938d71a_1006
+  - readline=7.0=hf8c457e_1001
+  - setuptools=44.0.0=py27_0
+  - sqlite=3.28.0=h8b20d00_0
+  - swig=4.0.1=he1b5a44_0
+  - tk=8.6.10=hed695b0_0
+  - wheel=0.34.2=py_1
+  - zlib=1.2.11=h516909a_1006
+prefix: /home/chaen/miniconda2/envs/m2crypto
+
